@@ -1,5 +1,7 @@
+import React from 'react';
 import logo from './logo.svg';
-import './App.css';
+import CustomButton from './components/CustomButton';
+import './App.less';
 
 function App() {
   return (
@@ -17,6 +19,7 @@ function App() {
         >
           Learn React
         </a>
+        <CustomButton label="Button" />
       </header>
     </div>
   );
