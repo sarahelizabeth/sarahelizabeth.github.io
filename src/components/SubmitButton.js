@@ -4,10 +4,12 @@ import styled from 'styled-components';
 import { colors } from '../styles/colors';
 
 const Component = styled(Button)`
-  background-color: ${colors.blueColor};
-  margin-left: 5px;
+  background-color: "#FFF";
+  border: 5px solid black;
+  width: 100px;
+  height: 50px;
 `;
 
-export default function CustomButton({ label, ...other }) {
+export default function SubmitButton({ label, ...other }) {
   return <Component {...other}>{label}</Component>;
 }

@@ -136,7 +136,8 @@ let resumeData = {
   "skillsDescription": "Your skills here",
   "skills": [
     {
-      "title": "Data Scientist / Ethical Hacker",
+      "title": "Hacker",
+      "icon": "hacker",
       "description": "I have 8+ years of experience, from participating in OpenGov Hackathons to analyzing inmate data from the Cook County Jail.",
       "subTitle": "Noteworthy Skills:",
       "subDescription": "Web Scraping, Machine Learning & AI, Python coding, Data Mining & Visualization",
@@ -149,7 +150,8 @@ let resumeData = {
       ]
     },
     {
-      "title": "Full-Stack Developer",
+      "title": "Developer",
+      "icon": "developer",
       "description": "I enjoy coding things from scratch as well as learning about and implementing new tools, frameworks, and technologies.",
       "subTitle": "Languages I Use:",
       "subDescription": "HTML5/CSS, JavaScript, SQL, .NET",
@@ -167,7 +169,8 @@ let resumeData = {
       ]
     },
     {
-      "title": "Mentor / Educator",
+      "title": "Mentor",
+      "icon": "mentor",
       "description": "I am a passionate tutor and mentor who strongly believes in lifting up my community through education and professional development.",
       "subTitle": "Experiences I Draw From:",
       "subDescription": "One-on-One Tutoring, Freelancing, Hackathons",
